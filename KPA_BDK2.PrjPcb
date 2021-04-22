@@ -219,6 +219,66 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for KPA_BDK2\ExportSTEP\KPA_BDK2.step
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for KPA_BDK2\Gerbers\Mother_board.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
