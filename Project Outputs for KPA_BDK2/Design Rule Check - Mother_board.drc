@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KPA_BDK2\Mother_board\oai_kpa_mother_board\Mother_board.PcbDoc
+Date     : 21.04.2021
+Time     : 18:36:44
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25.4mm) (InDifferentialPair ('2d_42'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InDifferentialPairClass('Diff Class'))
+Rule Violations :0
+
+Processing Rule : Room Slot4 (Bounding Region = (108mm, 9.25mm, 124mm, 190.25mm) (InComponentClass('Slot4'))
+Rule Violations :0
+
+Processing Rule : Room Slot2 (Bounding Region = (76mm, 9.25mm, 92mm, 190.25mm) (InComponentClass('Slot2'))
+Rule Violations :0
+
+Processing Rule : Room Slot8 (Bounding Region = (172mm, 9.25mm, 188mm, 190.25mm) (InComponentClass('Slot8'))
+Rule Violations :0
+
+Processing Rule : Room Slot6 (Bounding Region = (140mm, 9.25mm, 156mm, 190.25mm) (InComponentClass('Slot6'))
+Rule Violations :0
+
+Processing Rule : Room USB_HUB (Bounding Region = (236.005mm, 138.753mm, 285.755mm, 161.753mm) (InComponentClass('USB_HUB'))
+Rule Violations :0
+
+Processing Rule : Room USB_HUB3 (Bounding Region = (236mm, 70.75mm, 285.75mm, 93.75mm) (InComponentClass('USB_HUB3'))
+Rule Violations :0
+
+Processing Rule : Room USB_HUB2 (Bounding Region = (236mm, 93.75mm, 285.75mm, 116.75mm) (InComponentClass('USB_HUB2'))
+Rule Violations :0
+
+Processing Rule : Room USB_HUB1 (Bounding Region = (236mm, 116.75mm, 285.75mm, 139.75mm) (InComponentClass('USB_HUB1'))
+Rule Violations :0
+
+Processing Rule : Room Slot10 (Bounding Region = (204mm, 9.25mm, 220mm, 190.25mm) (InComponentClass('Slot10'))
+Rule Violations :0
+
+Processing Rule : Room Slot7 (Bounding Region = (156mm, 9.25mm, 172mm, 190.25mm) (InComponentClass('Slot7'))
+Rule Violations :0
+
+Processing Rule : Room Slot11 (Bounding Region = (220mm, 9.25mm, 236mm, 190.25mm) (InComponentClass('Slot11'))
+Rule Violations :0
+
+Processing Rule : Room Slot9 (Bounding Region = (188mm, 9.25mm, 204mm, 190.25mm) (InComponentClass('Slot9'))
+Rule Violations :0
+
+Processing Rule : Room Slot1 (Bounding Region = (60mm, 9.25mm, 76mm, 190.25mm) (InComponentClass('Slot1'))
+Rule Violations :0
+
+Processing Rule : Room Slot5 (Bounding Region = (124mm, 9.25mm, 140mm, 190.25mm) (InComponentClass('Slot5'))
+Rule Violations :0
+
+Processing Rule : Room Slot3 (Bounding Region = (92mm, 9.25mm, 108mm, 190.25mm) (InComponentClass('Slot3'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

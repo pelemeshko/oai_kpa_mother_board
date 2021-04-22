@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Mother_board.PcbDoc]
+   Generated File[KPA_BDK2.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:47:57 On 21.04.2021
